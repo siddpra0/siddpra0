@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @siddpra0
-- 👀 I’m interested in ...
+- 👀 I’m interested in coding... yeah
 - 🌱 I’m currently learning network hacking
 - 💞️ I’m looking to collaborate on hacking groups
 - 📫 How to reach me: just send me a text
